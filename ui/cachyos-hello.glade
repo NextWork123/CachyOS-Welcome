@@ -287,6 +287,7 @@ We, the CachyOS Developers, hope that you will enjoy using CachyOS as much as we
                       <item id="de">German</item>
                       <item id="pl">Polish</item>
                       <item id="ru">Russian</item>
+                      <item id="it">Italiano</item>
                     </items>
                     <signal name="changed" handler="on_languages_changed" swapped="no"/>
                   </object>
